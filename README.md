@@ -1,4 +1,4 @@
-# Flask Web App Tutorial
+# Food Ordering Web Application (Flask)
 
 ## Setup & Installation
 
